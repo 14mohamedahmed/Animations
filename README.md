@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Animation 1 about adding product items to cart with smooth animation
+![til](https://im4.ezgif.com/tmp/ezgif-4-3132247b63.gif)
