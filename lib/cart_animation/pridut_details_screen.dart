@@ -1,4 +1,4 @@
-import 'package:animations/1/model/product_model.dart';
+import 'package:animations/cart_animation/model/product_model.dart';
 import 'package:flutter/material.dart';
 
 class ProductDetailsScreen extends StatefulWidget {

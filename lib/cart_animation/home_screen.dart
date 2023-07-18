@@ -1,7 +1,7 @@
-import 'package:animations/1/controller/home_controller.dart';
-import 'package:animations/1/model/product_model.dart';
-import 'package:animations/1/pridut_details_screen.dart';
-import 'package:animations/1/product_item.dart';
+import 'package:animations/cart_animation/controller/home_controller.dart';
+import 'package:animations/cart_animation/model/product_model.dart';
+import 'package:animations/cart_animation/pridut_details_screen.dart';
+import 'package:animations/cart_animation/product_item.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

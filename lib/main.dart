@@ -1,4 +1,4 @@
-import 'package:animations/1/home_screen.dart';
+import 'package:animations/draggable_switcher_animation/draggable_switch_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const HomeScreen(),
+      home: const DraggableSwitchScreen(),
     );
   }
 }
